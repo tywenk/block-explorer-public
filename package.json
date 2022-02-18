@@ -1,0 +1,22 @@
+{
+  "name": "block-explorer",
+  "version": "1.0.0",
+  "description": "Real time and simple viewer of new Ethereum blocks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tywenk/block-explorer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tywenk/block-explorer/issues"
+  },
+  "homepage": "https://github.com/tywenk/block-explorer#readme",
+  "devDependencies": {
+    "prettier": "2.5.1"
+  }
+}
